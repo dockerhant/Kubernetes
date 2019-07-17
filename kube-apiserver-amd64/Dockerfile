@@ -1,2 +1,2 @@
-FROM mirrors.aliyun.com/google_containers/kubernetes-apiserver-amd64:v1.12.1
+FROM k8s.gcr.io/google_containers/kubernetes-apiserver-amd64:v1.12.1
 MAINTAINER dockerhant
